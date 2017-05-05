@@ -1,4 +1,4 @@
-# REST-API-USING-MANGO-NODE-EXPRESS-POSTMAN
+# REST-API-USING-MONGO-NODE-EXPRESS-POSTMAN
 1) This is simple example of getting started with RESTAPI .
 2) Initially check the version of node ,npm and mongo.
 3) you would have installed mongo already but for the use of API you must create a folder named "data" inside the local disk C and inside data create another folder named db.
